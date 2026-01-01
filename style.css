@@ -38,6 +38,7 @@ h2 {
     height: 100%;
     object-fit: cover;
     transition: 1s;
+    object-fit: cover;
 }
 
 .imagebox:hover {
